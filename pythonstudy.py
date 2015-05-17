@@ -17,4 +17,3 @@ def functionRRR():
         print sqrt(5.0)
 
 functionRRR()
-functionRRR()
